@@ -1,4 +1,4 @@
-Django on OpenShift Express
+OSQA on OpenShift Express
 ============================
 
 OSQA is the free, open source Q&A system you've been waiting for. Your OSQA site is more than just an FAQ page, it is a full-featured Q&A community. Users earn points and badges for useful participation, and everyone in the community wins. 
